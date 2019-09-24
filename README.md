@@ -9,5 +9,8 @@
 - Status: in development
 - Reference: [Crown and Council](https://store.steampowered.com/app/444250/Crown_and_Council/)
 
+[[ Download playable build for Android ]](https://github.com/Arman11/ForTheKingdom/raw/master/Build/ForTheKingdom.apk)
+
+### Short gameplay gif's:
 ![gif](Art/gameplay_demo_1.gif)
 ![gif](Art/gameplay_demo_2.gif)
