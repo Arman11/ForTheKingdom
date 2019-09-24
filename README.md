@@ -9,7 +9,15 @@
 - Status: in development
 - Reference: [Crown and Council](https://store.steampowered.com/app/444250/Crown_and_Council/)
 
-[[ Download playable build for Android ]](https://github.com/Arman11/ForTheKingdom/raw/master/Build/ForTheKingdom.apk)
+#### How to play:
+All players have gold. Any action is worth a certain amount of gold. You can walk while you have gold. Capture land with infantry or navy. Build settlements, towers, castles and universities to upgrade your buildings and troops.
+
+#### Victory conditions:
+Military: Destroyed all enemy kingdoms.
+Agrarian: Captured more than 80% of the land.
+Economic: Over 40 gold units have been accumulated.
+
+[[ Download build for Android ]](https://github.com/Arman11/ForTheKingdom/raw/master/Build/ForTheKingdom.apk)
 
 ### Short gameplay gif's:
 ![gif](Art/gameplay_demo_1.gif)
