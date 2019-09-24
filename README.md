@@ -8,3 +8,6 @@
 - Platforms: Android, iOS
 - Status: in development
 - Reference: [Crown and Council](https://store.steampowered.com/app/444250/Crown_and_Council/)
+
+![gif](Art/gameplay_demo_1.gif)
+![gif](Art/gameplay_demo_2.gif)
